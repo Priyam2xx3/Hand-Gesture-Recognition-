@@ -45,7 +45,7 @@ This project is a robust, real-time hand gesture recognition system built with *
 
 ## Example Model clip
 
-![Model clip](hand.mp4)
+![Model clip](handss.png)
 
 ---
 
