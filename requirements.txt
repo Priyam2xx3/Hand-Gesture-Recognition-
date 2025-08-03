@@ -1,0 +1,9 @@
+tensorflow>=2.4.0
+keras>=2.4.0
+numpy
+opencv-python
+pandas
+scikit-learn
+matplotlib
+seaborn
+tf-nightly 
