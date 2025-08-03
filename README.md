@@ -18,22 +18,8 @@ This project is a robust, real-time hand gesture recognition system built with *
 
 ## Project Structure
 
-├── app.py # Main recognition program
-├── keypoint_classification.ipynb # Train hand sign models
-├── point_history_classification.ipynb # Train finger gesture models
-├── model
-│ ├── keypoint_classifier
-│ │ ├── keypoint.csv
-│ │ ├── keypoint_classifier.tflite
-│ │ ├── keypoint_classifier.py
-│ │ └── keypoint_classifier_label.csv
-│ └── point_history_classifier
-│ ├── point_history.csv
-│ ├── point_history_classifier.tflite
-│ ├── point_history_classifier.py
-│ └── point_history_classifier_label.csv
-└── utils
-└── cvfpscalc.py # FPS calculation utility
+<img width="730" height="493" alt="image" src="https://github.com/user-attachments/assets/cb73f25b-27fe-43f4-a4a0-c1059651a2d5" />
+
 
 
 
